@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm vthcuvompson194
 
-<!--
-**vthcuvompson194/vthcuvompson194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛶 🎪 Interested in robotics 🛶 🎪
 
-Here are some ideas to get you started:
+## About Me
+🚀 🌍 🏒 A lover of machine learning 🚀 🌍 🏒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚵 🎷 Obsessed with internet of things 🚵 🎷
+
+### Fun Facts
+🎤 🥊 🏏 A geek in frameworks 🎤 🥊 🏏
+
+---
+🎤 🎻 🎰 🎾 🌺 Thanks for visiting my profile! 🏓 🎣 🏊 🏄 🏒
